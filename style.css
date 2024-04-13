@@ -1,0 +1,107 @@
+*{
+    background-color:black;
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+}
+.R8{
+    font-size:15px;
+    color:white;
+    Margin-top:20px;
+    margin-bottom:20px;
+    display:flex;
+}
+.head{
+    font-size:50px;
+    padding:20px;
+    margin-top:40px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:bolder;
+    color:white
+}
+.info{
+    font-size:25px;
+    color:white;
+}
+img{
+    height:450px;
+    width:fit-content;
+    padding-right:20px;
+}
+.Audi{
+    font-size:40px;
+}
+.charger{
+    font-size:35px;
+}
+.dodge{
+    height:600;
+    display:flex;
+    font-size:15px;
+}
+.camaro{
+    display:flex;
+    height:800px;
+}
+.cheverlate{
+    margin-top:60px;
+    font-size:35px;
+}
+.panamera{
+    display:flex;
+}
+.Porche{
+    font-size:35px;
+    margin-bottom:50px
+}
+.bmw{
+    font-size:35px;
+   margin-top:110px;
+}
+.B7{
+    display:flex;
+}
+.aventador{
+    color:white;
+    display:flex;
+}
+.lambo{
+    font-size:40px;
+}
+.cat{
+    display:flex;
+}
+.hellcat{
+    font-size:35px;
+    margin-top:60px;
+}
+.F8{
+    display:flex;
+}
+.maclaren{
+    display:flex;
+}
+.mac{
+    font-size:35px;
+}
+.ferari{
+    font-size:35px;
+}
+.Beast{
+    margin-top:200px;
+    font-size:60px;
+    font-family:cursive;
+    margin-left:200px;
+}
+.logo{
+    margin-left:290px;
+    font-size: larger;
+  
+}
+.follow{
+    align-items:center;
+    margin-top:50px;
+    font-size:30px;
+}
+footer{
+    background-color:rgb(125, 132, 13)
+}
